@@ -1,0 +1,19 @@
+.hd{
+  background-color: rgb(12, 242, 242);
+  font-weight: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  margin: 10px;
+  color: white;
+}
+
+.btn{
+  background-color: brown;
+  color: white;
+}
+
+.logo{
+  text-decoration: underline;
+}
